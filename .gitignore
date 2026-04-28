@@ -1,0 +1,5 @@
+# Ignored files
+*.log
+*.tmp
+node_modules/
+dist/
